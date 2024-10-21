@@ -45,16 +45,16 @@ You can run the project by executing the notebook cifar-10-main.ipynb. Below is 
 python
 Copy code
 # Load and preprocess dataset
-# (Include preprocessing code from your notebook here)
+#(Include preprocessing code from your notebook here)
 
-# Build and compile model
-# (Include model creation and compilation code here)
+#Build and compile model
+#(Include model creation and compilation code here)
 
 # Train the model
-# (Include code for training the model)
+#(Include code for training the model)
 
 # Evaluate on test set
-# (Include evaluation code)
+#(Include evaluation code)
 
 # Predict using the model
 predictions = model.predict(test_images)
